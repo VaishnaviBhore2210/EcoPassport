@@ -1,0 +1,11 @@
+com\ecopassport\config\WebConfig.class
+com\ecopassport\model\LifecycleEvent.class
+com\ecopassport\controller\ApiController.class
+com\ecopassport\model\Product.class
+com\ecopassport\config\CorsConfig.class
+com\ecopassport\service\AiService.class
+com\ecopassport\repo\ProductRepo.class
+com\ecopassport\repo\EventRepo.class
+com\ecopassport\EcoPassportApplication.class
+com\ecopassport\model\User.class
+com\ecopassport\repo\UserRepo.class

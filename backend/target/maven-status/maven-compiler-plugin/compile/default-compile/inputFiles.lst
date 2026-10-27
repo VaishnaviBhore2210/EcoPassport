@@ -1,0 +1,11 @@
+C:\Users\bhore\Downloads\EcoPassport_Interactive (4)\EcoPassport_Interactive\EcoPassport_Integrated\backend\src\main\java\com\ecopassport\config\CorsConfig.java
+C:\Users\bhore\Downloads\EcoPassport_Interactive (4)\EcoPassport_Interactive\EcoPassport_Integrated\backend\src\main\java\com\ecopassport\config\WebConfig.java
+C:\Users\bhore\Downloads\EcoPassport_Interactive (4)\EcoPassport_Interactive\EcoPassport_Integrated\backend\src\main\java\com\ecopassport\controller\ApiController.java
+C:\Users\bhore\Downloads\EcoPassport_Interactive (4)\EcoPassport_Interactive\EcoPassport_Integrated\backend\src\main\java\com\ecopassport\EcoPassportApplication.java
+C:\Users\bhore\Downloads\EcoPassport_Interactive (4)\EcoPassport_Interactive\EcoPassport_Integrated\backend\src\main\java\com\ecopassport\model\LifecycleEvent.java
+C:\Users\bhore\Downloads\EcoPassport_Interactive (4)\EcoPassport_Interactive\EcoPassport_Integrated\backend\src\main\java\com\ecopassport\model\Product.java
+C:\Users\bhore\Downloads\EcoPassport_Interactive (4)\EcoPassport_Interactive\EcoPassport_Integrated\backend\src\main\java\com\ecopassport\model\User.java
+C:\Users\bhore\Downloads\EcoPassport_Interactive (4)\EcoPassport_Interactive\EcoPassport_Integrated\backend\src\main\java\com\ecopassport\repo\EventRepo.java
+C:\Users\bhore\Downloads\EcoPassport_Interactive (4)\EcoPassport_Interactive\EcoPassport_Integrated\backend\src\main\java\com\ecopassport\repo\ProductRepo.java
+C:\Users\bhore\Downloads\EcoPassport_Interactive (4)\EcoPassport_Interactive\EcoPassport_Integrated\backend\src\main\java\com\ecopassport\repo\UserRepo.java
+C:\Users\bhore\Downloads\EcoPassport_Interactive (4)\EcoPassport_Interactive\EcoPassport_Integrated\backend\src\main\java\com\ecopassport\service\AiService.java

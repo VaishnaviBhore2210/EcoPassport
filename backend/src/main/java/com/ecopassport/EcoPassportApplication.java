@@ -1,0 +1,1 @@
+package com.ecopassport; import org.springframework.boot.SpringApplication; import org.springframework.boot.autoconfigure.SpringBootApplication; @SpringBootApplication public class EcoPassportApplication{public static void main(String[]a){SpringApplication.run(EcoPassportApplication.class,a);}}

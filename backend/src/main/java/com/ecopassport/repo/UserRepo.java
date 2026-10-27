@@ -1,0 +1,1 @@
+package com.ecopassport.repo; import com.ecopassport.model.User; import org.springframework.data.jpa.repository.JpaRepository; import java.util.*; public interface UserRepo extends JpaRepository<User,Long>{Optional<User> findByEmail(String e);}
