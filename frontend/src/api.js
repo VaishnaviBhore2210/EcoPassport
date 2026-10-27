@@ -1,10 +1,19 @@
+
 import axios from 'axios';
 
-const BASE = import.meta.env.VITE_API_URL || 'http://localhost:8081';
-export const api = axios.create({ baseURL: BASE + '/api' });
+const BASE = (
+  import.meta.env.VITE_API_URL || 'http://localhost:8081'
+).replace(/\/+$/, '');
+
+export const api = axios.create({ baseURL: `${BASE}/api` });
 export const API_ORIGIN = BASE;
+
 export function getUser() {
-  try { return JSON.parse(localStorage.getItem('user')); } catch { return null; }
+  try {
+    return JSON.parse(localStorage.getItem('user'));
+  } catch {
+    return null;
+  }
 }
 
 export function setUser(u) {
