@@ -1,4 +1,4 @@
-# EcoPassport Full Integrated
+# SMART-ECOPASSPORT
 
 React frontend + Java Spring Boot backend + MySQL database + AI sustainability scoring.
 
